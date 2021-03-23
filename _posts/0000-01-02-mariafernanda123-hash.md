@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!!"
 Documento de Maria
-Buuenas 
+Mi carpeta 
 Utiliza la flecha hacia la izquierda para volver!
